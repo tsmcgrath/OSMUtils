@@ -7,5 +7,7 @@
 			"path": "../osmnx-examples"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.dataScience.jupyterServerURI": "local"
+	}
 }
